@@ -1,0 +1,19 @@
+[workspace]
+members=[
+  "interp1",
+  "interp2",
+  "interp3",
+  "interp4",
+  "interp5",
+  "interp6",
+  "interp7"
+]
+
+[profile.release]
+opt-level = 3
+debug = false
+rpath = false
+lto = true
+debug-assertions = false
+codegen-units = 1
+panic = 'abort'

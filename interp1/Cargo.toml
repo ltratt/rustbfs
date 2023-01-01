@@ -1,0 +1,4 @@
+[package]
+name = "interp1"
+version = "0.1.0"
+edition = "2021"
