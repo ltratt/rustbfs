@@ -6,7 +6,8 @@ members=[
   "interp4",
   "interp5",
   "interp6",
-  "interp7"
+  "interp7",
+  "interp8"
 ]
 
 [profile.release]

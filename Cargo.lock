@@ -29,3 +29,7 @@ version = "0.1.0"
 [[package]]
 name = "interp7"
 version = "0.1.0"
+
+[[package]]
+name = "interp8"
+version = "0.1.0"
