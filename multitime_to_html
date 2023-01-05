@@ -1,0 +1,63 @@
+#! /usr/bin/env python3
+
+DESCS = {
+  "interp1": "base",
+  "interp2": "+ bracket caching",
+  "interp3": "+ opcodes",
+  "interp4": "+ opcode bracket caching",
+  "interp5": "+ Add(n)",
+  "interp6": "+ Sub(n) / Left(n) / Right(n)",
+  "interp7": "+ Zero",
+  "interp8": "reorganised"
+}
+
+import math, sys
+from decimal import Decimal
+
+if len(sys.argv) != 3:
+  sys.stderr.write("multitime_to_html <file> <reps>")
+  sys.exit(1)
+
+reps = float(sys.argv[2])
+
+interps = {}
+lines = open(sys.argv[1]).readlines()
+i = 0
+while i < len(lines):
+  if lines[i].strip() == "===> multitime results":
+    break
+  i += 1
+
+i += 1
+while i < len(lines):
+  _, _, interp, bench = lines[i].split(" ")
+  interp = interp.split("/")[-1]
+  bench = bench.strip()
+  if interp not in interps:
+    interps[interp] = {}
+  i += 1
+  sp = list(filter(lambda x: x != "", lines[i].split(" ")))
+  assert(sp[0] == "Mean")
+  i += 1
+  sp = list(filter(lambda x: x != "", lines[i].split(" ")))
+  assert(sp[0] == "real")
+  assert(bench not in interp)
+  interps[interp][bench] = f"""{sp[1]}<span style="font-size: 75%">±{2.576 * (float(sp[2]) / math.sqrt(reps)):.4f}</span>"""
+  i += 4
+
+benchmarks = interps[list(interps.keys())[0]]
+
+out = ["""<table class="booktabs">\n<thead>\n<tr><th></th>"""]
+for b in sorted(benchmarks):
+  out.append(f"<th>{b}</th>")
+out.append("</tr>\n</thead>\n")
+
+out.append("<tbody>\n")
+for (i, n) in enumerate(sorted(interps.keys())):
+  out.append(f"<tr><td>{i+1}: {DESCS[n]}</td>")
+  for b in sorted(benchmarks):
+    out.append(f"<td>{interps[n][b]}</td>")
+  out.append(f"</tr>\n")
+out.append("</tbody>\n</table>")
+
+print("".join(out))

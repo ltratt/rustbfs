@@ -1,0 +1,864 @@
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp2 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp4 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp2 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 hanoi.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp8 bench.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp7 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp1 mandelbrot.bf
+===> Executing -q target/release/interp1 hanoi.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp6 bench.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp5 hanoi.bf
+===> Executing -q target/release/interp4 mandelbrot.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp6 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp7 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp8 hanoi.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp2 bench.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp7 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp3 hanoi.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 mandelbrot.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp8 mandelbrot.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> Executing -q target/release/interp5 bench.bf
+===> Executing -q target/release/interp1 bench.bf
+===> multitime results
+1: -q target/release/interp1 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        2.067       0.009       2.050       2.069       2.080       
+user        2.066       0.009       2.049       2.067       2.078       
+sys         0.001       0.001       0.000       0.000       0.004       
+
+2: -q target/release/interp1 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        13.404      0.167       13.350      13.378      14.300      
+user        13.403      0.167       13.349      13.374      14.299      
+sys         0.001       0.002       0.000       0.000       0.008       
+
+3: -q target/release/interp1 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        30.307      0.034       30.269      30.297      30.426      
+user        30.305      0.034       30.266      30.296      30.425      
+sys         0.001       0.002       0.000       0.000       0.004       
+
+4: -q target/release/interp2 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        1.430       0.057       1.391       1.415       1.639       
+user        1.430       0.057       1.390       1.415       1.639       
+sys         0.000       0.001       0.000       0.000       0.004       
+
+5: -q target/release/interp2 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        8.308       0.151       8.163       8.191       8.533       
+user        8.306       0.152       8.162       8.190       8.533       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+6: -q target/release/interp2 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        14.341      0.381       14.042      14.075      14.921      
+user        14.339      0.381       14.042      14.074      14.917      
+sys         0.001       0.002       0.000       0.000       0.004       
+
+7: -q target/release/interp3 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        1.802       0.022       1.754       1.802       1.839       
+user        1.800       0.023       1.749       1.802       1.838       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+8: -q target/release/interp3 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        9.242       0.010       9.224       9.245       9.260       
+user        9.240       0.010       9.220       9.240       9.260       
+sys         0.001       0.002       0.000       0.000       0.008       
+
+9: -q target/release/interp3 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        16.353      0.316       16.261      16.288      18.048      
+user        16.351      0.315       16.261      16.287      18.043      
+sys         0.001       0.002       0.000       0.000       0.008       
+
+10: -q target/release/interp4 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        1.263       0.009       1.230       1.266       1.269       
+user        1.262       0.009       1.230       1.265       1.269       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+11: -q target/release/interp4 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        9.240       0.006       9.227       9.241       9.254       
+user        9.238       0.007       9.223       9.238       9.253       
+sys         0.002       0.002       0.000       0.000       0.008       
+
+12: -q target/release/interp4 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        14.898      0.019       14.872      14.899      14.970      
+user        14.896      0.019       14.867      14.897      14.969      
+sys         0.001       0.002       0.000       0.000       0.004       
+
+13: -q target/release/interp5 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        1.029       0.009       1.016       1.034       1.039       
+user        1.028       0.008       1.013       1.031       1.038       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+14: -q target/release/interp5 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        6.912       0.009       6.895       6.916       6.926       
+user        6.910       0.008       6.894       6.914       6.926       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+15: -q target/release/interp5 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        16.169      0.023       16.082      16.173      16.211      
+user        16.167      0.022       16.081      16.173      16.206      
+sys         0.001       0.002       0.000       0.000       0.004       
+
+16: -q target/release/interp6 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        1.135       0.012       1.115       1.134       1.153       
+user        1.134       0.011       1.115       1.133       1.152       
+sys         0.001       0.001       0.000       0.000       0.004       
+
+17: -q target/release/interp6 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        7.042       0.008       7.024       7.044       7.055       
+user        7.040       0.008       7.023       7.041       7.054       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+18: -q target/release/interp6 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        5.721       0.020       5.698       5.720       5.792       
+user        5.720       0.020       5.697       5.718       5.792       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+19: -q target/release/interp7 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        0.301       0.009       0.287       0.306       0.309       
+user        0.300       0.008       0.284       0.303       0.309       
+sys         0.001       0.002       0.000       0.000       0.008       
+
+20: -q target/release/interp7 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        0.491       0.007       0.476       0.494       0.498       
+user        0.490       0.007       0.475       0.492       0.498       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+21: -q target/release/interp7 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        6.023       0.011       6.004       6.027       6.049       
+user        6.022       0.010       6.004       6.024       6.049       
+sys         0.001       0.001       0.000       0.000       0.004       
+
+22: -q target/release/interp8 bench.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        0.282       0.008       0.269       0.287       0.291       
+user        0.282       0.008       0.268       0.285       0.290       
+sys         0.001       0.001       0.000       0.000       0.004       
+
+23: -q target/release/interp8 hanoi.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        0.484       0.008       0.469       0.487       0.491       
+user        0.483       0.008       0.466       0.486       0.490       
+sys         0.001       0.002       0.000       0.000       0.004       
+
+24: -q target/release/interp8 mandelbrot.bf
+            Mean        Std.Dev.    Min         Median      Max
+real        5.746       0.008       5.727       5.748       5.757       
+user        5.745       0.008       5.726       5.747       5.757       
+sys         0.000       0.001       0.000       0.000       0.004       
