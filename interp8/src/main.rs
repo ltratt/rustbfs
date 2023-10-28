@@ -11,7 +11,7 @@ fn main() -> Result<(), Box<dyn error::Error>> {
 fn optimise(prog: &mut Vec<Ops>) {
   let mut i = 0;
   while i < prog.len() {
-    if i + 3 < prog.len() && matches!(prog[i..i+3], [Ops::LBrack(_), Ops::Sub(1), Ops::RBrack(_)]) {
+    if i + 2 < prog.len() && matches!(prog[i..i+3], [Ops::LBrack(_), Ops::Sub(1), Ops::RBrack(_)]) {
       prog.splice(i..i+3, [Ops::Zero]);
       i += 3;
     } else { i += 1; }
